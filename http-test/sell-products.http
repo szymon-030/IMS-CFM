@@ -1,0 +1,3 @@
+### /sell
+POST http://localhost:3000/products/6776d3f1ade00c7d2a745468/sell
+Content-Type: application/json

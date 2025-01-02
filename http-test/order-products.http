@@ -1,0 +1,13 @@
+### /orders
+POST http://localhost:3000/orders
+Content-Type: application/json
+
+{
+  "customerId": "Test",
+  "products": [
+    {
+      "id": "6776d3f1ade00c7d2a745468",
+      "quantity": 7
+    }
+  ]
+}

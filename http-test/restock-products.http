@@ -1,0 +1,7 @@
+### /restock
+POST http://localhost:3000/products/6776d3f1ade00c7d2a745468/restock
+Content-Type: application/json
+
+{
+  "number": 10
+}
